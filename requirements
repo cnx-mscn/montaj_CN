@@ -4,3 +4,4 @@ geopy
 folium
 streamlit-folium
 googlemaps
+googlemaps==4.7.0
